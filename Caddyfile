@@ -3,5 +3,5 @@
 		canadian $2a$14$GdkoJZm31OJNzas6PJ9RJetVNRji8.5/jVqVNe5bYdxymG2ktQb7m
 	}
 
-	reverse_proxy http://cbsr-demo.railway.internal:3000
+	reverse_proxy http://cbsr-demo.railway.internal:8080
 }
